@@ -1,101 +1,40 @@
-# software-engineering-manager-hiring
+Remote job
 # 🚀 Hiring: Software Engineering Manager (AI / Delivery)
 
-## 📍 Location
-Remote (India) 
+> Build AI-powered products. Lead engineers. Stay close to code.
 
+We’re hiring a **Software Engineering Manager** to lead a team building **automation agents and AI-driven software solutions**.
+
+This is a **hands-on leadership role** — not just people management.
 ---
 
-## 💡 What’s this role about?
+## 🧰 Tech Stack
 
-We’re looking for a **Software Engineering Manager** who can lead a team building **AI-powered automation agents and software solutions**.
+- JavaScript / TypeScript
+- Node.js
+- npm / pnpm
+- ESLint
+- Jest / Vitest
+- APIs & integrations
+- AI / LLM integrations (good to have)
+## 💡 Why This Role is Interesting
 
-This is not just a management role.
-
-👉 You’ll:
-- Lead engineers
-- Stay close to code
-- Drive customer delivery
-- Improve engineering processes
-- Ensure quality, security, and speed
-
-If you care about **real outcomes (not unnecessary processes)** — this role is for you.
-
----
-
-## 🧠 What You’ll Actually Do
-
-### 👥 Team Leadership
-- Hire, mentor, and grow engineers
-- Run 1:1s, performance reviews, and career plans
-- Keep team motivated and balanced
-
-### ⚙️ Engineering Excellence
-- Improve SDLC, code quality, and testing
-- Track metrics (cycle time, DORA, etc.)
-- Reduce technical debt
-- Make tooling and architecture decisions
-
-### 🚚 Delivery & Customers
-- Ensure smooth and predictable delivery
-- Handle escalations and unblock teams
-- Work closely with customers and stakeholders
-
-### 🔐 Security & Compliance
-- Drive secure coding practices
-- Manage vulnerabilities and SLAs
-- Ensure compliance and governance
-
----
-
-## 🎯 What Success Looks Like
-
-- Strong, happy engineering team
-- Predictable and high-quality delivery
-- Faster execution without unnecessary bureaucracy
-- Trusted by customers and stakeholders
-
----
-
-## ✅ Must-Have Skills
-
-- Strong engineering background (you can read & review code)
-- 3+ years in **JavaScript / TypeScript**
-- Experience with:
-  - Node.js
-  - npm / pnpm
-  - ESLint
-  - Jest / Vitest
-- Experience in **customer-facing delivery roles**
-- Managed teams (8+ engineers)
-- Ability to handle escalations & delivery challenges
-
----
-
-## ⭐ Good to Have
-
-- Experience with **LLMs / AI applications**
-- Prompt engineering knowledge
-- Understanding of AI challenges (hallucinations, latency, etc.)
-
----
-
-## 🌟 Why Join?
-
-- Work on **real AI products**, not just enterprise tools
-- High-impact role in a fast-growing team
-- Backed by **Cognizant**
-- Remote-first + flexible work culture
-- Strong career growth opportunities
-
+- Not just managing — you stay close to code
+- Work on **real AI products**, not legacy systems
+- Direct impact on delivery and engineering culture
+- Balance speed, quality, and customer outcomes
 ---
 
 ## 📩 How to Apply
 
-If this sounds interesting:
+Interested?
 
-👉 Connect or message me on LinkedIn  
-👉 Or raise an issue in this repo with your profile  
+- Connect with me on LinkedIn  
+- Or open an issue in this repo with your profile  
+
+I’m happy to have a quick conversation 🙂
+
+> 🔎 Keywords: Software Engineering Manager Jobs | AI Jobs | Node.js | TypeScript | Remote India Jobs
 
 ---
 
